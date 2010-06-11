@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Linux-Pdeathsig
-version:            0.00_02
+version:            0.10
 abstract:           Perl interface to request a signal on parent death 
 author:
     - Eric Clark <zerohp@cpan.org>
